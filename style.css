@@ -65,7 +65,7 @@ top: 32px;*/
 
 .Background {
 
-    background: rgba(35, 59, 111, 0.8) url('../Mask group.png');
+    background: rgba(35, 59, 111, 0.8) url('./Mask group.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
